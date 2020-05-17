@@ -1,0 +1,6 @@
+How do you design the API end point? Ie. Why was the list.main path "notes" and why was the method "Get"
+
+Basics of CRUD
+
+What does npm install --save accomplish?
+
